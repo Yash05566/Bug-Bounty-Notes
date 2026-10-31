@@ -214,20 +214,6 @@ It also highlighted the importance of implementing authentication and email veri
 
 ---
 
-## Practical Evidence
-
-Add actual screenshots from the testing environment in the following section.
-
-| Figure    | Description                         | Evidence |
-| :-------- | :---------------------------------- | :------- |
-| Figure 01 | HTTP Request Interception           | Pending  |
-| Figure 02 | Incorrect OTP Response              | Pending  |
-| Figure 03 | HTTP Response Comparison Using Meld | Pending  |
-| Figure 04 | Response Manipulation Testing       | Pending  |
-| Figure 05 | Registration Workflow Validation    | Pending  |
-
----
-
 **End of Day 01 Documentation**
 
 *Web Application Security – Practical Learning Journal*
